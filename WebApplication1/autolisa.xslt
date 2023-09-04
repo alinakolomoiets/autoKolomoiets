@@ -106,7 +106,7 @@
 		</xsl:for-each>
 		<br/>
 		*Leia, mitme auto registrimärgi numbritest viimane on 1 või 2 : 
-		<xsl:value-of select="count(/autod/auto [substring(autonumber, 1, 1)='1' or substring(autonumber, 1, 1)='2'])"/>,
+		<xsl:value-of select="(/autod/auto [substring(autonumber,  1, 1 )='1' or substring(autonumber, 1, 1)='2'])"/>,
 		<br/>
 		Väljasta andmed tabelina: registrinumbrid ühes ning perekonnanimed teises tulbas.
 		<table>
@@ -126,6 +126,21 @@
 			</xsl:for-each>
 		</table>
 		<br/>
+		
+		<br/>
+		Kõik aasta:
+		<ul>
+			<xsl:for-each select="autod/auto">
+				<li>
+					<xsl:value-of select="v_aasta"/>
+				</li>
+			</xsl:for-each>
+		</ul>
+		Viimased tähed
+		<br/>
+		<xsl:for-each select ="autod/auto">
+			<xsl:value-of select="substring(mark, 1, 1)"/>,
+		</xsl:for-each>
 		
 	</xsl:template>	  
 </xsl:stylesheet>
