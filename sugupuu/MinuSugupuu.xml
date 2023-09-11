@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="utf-8"?>
+<inimine synd="1937" elukoht="Dnepr">
+  <nimi>Anna Naydyuk</nimi>
+  <status>Surnud</status>
+  <lapsed>
+    <inimine synd="1961" elukoht="Dnepr">
+      <nimi>Nina Bubyr</nimi>
+      <status>Surnud</status>
+      <lapsed>
+        <inimine synd="1981" elukoht="Saksamaa">
+          <nimi>Marina Brovary</nimi>
+          <status>Elada</status>
+          <lapsed>
+            <inimine synd="2003" elukoht="Saksamaa">
+              <nimi>Anastasia Brovary</nimi>
+              <status>Elada</status>
+            </inimine>
+          </lapsed>
+        </inimine>
+        <inimine synd="1984" elukoht="Dnepr">
+          <nimi>Aleksandr Bubyr</nimi>
+          <status>Elada</status>
+        </inimine>
+      </lapsed>
+    </inimine>
+    <inimine synd="1964" elukoht="Dnepr">
+      <nimi>Liidia Rozhko</nimi>
+      <status>Elada</status>
+      <lapsed>
+        <inimine synd="1986" elukoht="Tallinn">
+          <nimi>Anna Kolomoiets</nimi>
+          <status>Elada</status>
+          <lapsed>
+            <inimine synd="2005" elukoht="Tallinn">
+              <nimi>Alina Kolomoiets</nimi>
+              <status>Elada</status>
+            </inimine>
+          </lapsed>
+        </inimine>
+      </lapsed>
+    </inimine>
+  </lapsed>
+  <inimine>
+    <nimi>lina</nimi>
+    <synd>2001</synd>
+    <elukoht>Dnepr</elukoht>
+    <status>Surnud</status>
+    <lapsed>
+      <inimine>
+        <nimi>bubu</nimi>
+      </inimine>
+    </lapsed>
+  </inimine>
+  <inimine>
+    <nimi>lina</nimi>
+    <synd>2005</synd>
+    <elukoht>gg</elukoht>
+    <status>gg</status>
+    <lapsed>
+      <inimine>
+        <nimi>bubu</nimi>
+      </inimine>
+      <inimine>
+        <synd>bubu</synd>
+      </inimine>
+    </lapsed>
+  </inimine>
+  <inimine>
+    <nimi>lina</nimi>
+    <synd>2001</synd>
+    <elukoht>Dnepr</elukoht>
+    <status>Surnud</status>
+    <lapsed>
+      <inimine>
+        <nimi>bubu</nimi>
+      </inimine>
+      <inimine>
+        <synd>bubu</synd>
+      </inimine>
+    </lapsed>
+  </inimine>
+  <inimine>
+    <nimi>lina</nimi>
+    <synd>2003</synd>
+    <elukoht>hh</elukoht>
+    <status>ffd</status>
+    <lapsed>
+      <inimine>
+        <nimi>bubu</nimi>
+      </inimine>
+      <inimine>
+        <synd>bubu</synd>
+      </inimine>
+    </lapsed>
+  </inimine>
+  <inimine>
+    <nimi>hh</nimi>
+    <synd>gg</synd>
+    <elukoht>hh</elukoht>
+    <status>dd</status>
+    <lapsed>
+      <inimine>
+        <nimi>bubu</nimi>
+      </inimine>
+      <inimine>
+        <synd>bubu</synd>
+      </inimine>
+    </lapsed>
+  </inimine>
+  <inimine>
+    <nimi>jj</nimi>
+    <synd>hg</synd>
+    <elukoht>fd</elukoht>
+    <status>y6</status>
+    <lapsed>
+      <inimine>
+        <nimi>hteyj</nimi>
+      </inimine>
+      <inimine>
+        <synd>hteyj</synd>
+      </inimine>
+    </lapsed>
+  </inimine>
+  <inimine>
+    <nimi>lina</nimi>
+    <synd>2005</synd>
+    <elukoht>gg</elukoht>
+    <status>gg</status>
+    <lapsed>
+      <inimine>
+        <nimi>bubu</nimi>
+      </inimine>
+    </lapsed>
+  </inimine>
+  <inimine>
+    <nimi>lina</nimi>
+    <synd>2001</synd>
+    <elukoht>Dnepr</elukoht>
+    <status>Surnud</status>
+    <lapsed>
+      <inimine>
+        <nimi>bubu</nimi>
+      </inimine>
+    </lapsed>
+  </inimine>
+  <inimine>
+    <nimi>hh</nimi>
+    <synd>gg</synd>
+    <elukoht>hh</elukoht>
+    <status>dd</status>
+    <lapsed>
+      <inimine>
+        <nimi>bubu</nimi>
+      </inimine>
+    </lapsed>
+  </inimine>
+  <inimine>
+    <nimi>lina</nimi>
+    <synd>2003</synd>
+    <elukoht>hh</elukoht>
+    <status>ffd</status>
+    <lapsed>
+      <inimine>
+        <nimi>bubu</nimi>
+      </inimine>
+    </lapsed>
+  </inimine>
+  <inimine>
+    <nimi>jj</nimi>
+    <synd>hg</synd>
+    <elukoht>fd</elukoht>
+    <status>y6</status>
+    <lapsed>
+      <inimine>
+        <nimi>hteyj</nimi>
+      </inimine>
+    </lapsed>
+  </inimine>
+</inimine>
